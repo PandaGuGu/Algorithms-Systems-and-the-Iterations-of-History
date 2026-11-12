@@ -1,0 +1,63 @@
+# 许可
+
+本仓库分三类内容，各自适用不同许可。
+
+## 正文：CC BY-NC-SA 4.0
+
+覆盖 `00-序.md`、各篇导言与幕间、`01`–`16` 各章、三个附录、`20-后记.md`、`简本.md`、`README.md`。
+
+可自由共享与演绎（含翻译），条件是：
+
+- **署名** —— 注明作者、给出许可链接、说明是否修改；
+- **非商业** —— 不得用于商业目的；
+- **相同方式共享** —— 演绎作品须使用同一许可。
+
+许可全文：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
+法律文本（以英文为准）：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+## 代码：MIT
+
+覆盖各章"代码"一节的全部代码块，以及正文中出现的代码片段。
+
+```
+MIT License
+
+Copyright (c) 2026 PandaGuGu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## 证据清单：CC BY 4.0
+
+覆盖 `sources.md`。可自由共享与演绎（含商业使用），条件只有署名。
+
+许可全文：https://creativecommons.org/licenses/by/4.0/deed.zh-hans
+
+## 引用格式
+
+```
+PandaGuGu. (2026). Algorithms, Systems, and the Iterations of History.
+https://github.com/PandaGuGu/Algorithms-Systems-and-the-Iterations-of-History
+```
+
+## 第三方材料
+
+本仓库不包含任何第三方代码或译文。`sources.md` 中提到的作品仅作参考与线索，未复制其代码或文字。
+
+若将来并入任何 GPL 代码，整库须改为 GPL 兼容；GPL 不允许附加限制，届时本许可中的 CC BY-NC-SA 部分必须撤销。

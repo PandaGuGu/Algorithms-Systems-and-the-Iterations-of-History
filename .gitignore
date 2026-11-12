@@ -1,0 +1,7 @@
+# Obsidian 工作区布局，随打开窗口变化，不纳入版本管理
+.obsidian/workspace.json
+
+# 系统与编辑器临时文件
+.DS_Store
+Thumbs.db
+*.tmp

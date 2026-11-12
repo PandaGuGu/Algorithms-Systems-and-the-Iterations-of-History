@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "若引用本作品，请使用下面的元数据。正文适用 CC BY-NC-SA 4.0，各章代码适用 MIT，证据清单 sources.md 适用 CC BY 4.0，详见仓库 LICENSE。"
+title: "Algorithms, Systems, and the Iterations of History"
+type: software
+authors:
+  - family-names: "PandaGuGu"
+abstract: >-
+  一本讲技术演进的书稿：算法是对当时机器成本结构的一次回答。硬件改变常数，
+  经济改变选择，所以每隔一代人，同一批算法就要被重新回答一次。全书十六章，
+  按四个观察尺度（抽象、算法、系统、经济）分为四部，附术语表、年表与证据分级。
+date-released: 2026-11-12
+version: 1.0.0
+license: CC-BY-NC-SA-4.0
+url: "https://github.com/PandaGuGu/Algorithms-Systems-and-the-Iterations-of-History"
+repository-code: "https://github.com/PandaGuGu/Algorithms-Systems-and-the-Iterations-of-History"
+keywords:
+  - 技术史
+  - 计算机体系结构
+  - 算法
+  - 成本模型
+  - 编译器
+  - 存储层次
+preferred-citation:
+  type: book
+  title: "Algorithms, Systems, and the Iterations of History"
+  authors:
+    - family-names: "PandaGuGu"
+  year: 2026
+  url: "https://github.com/PandaGuGu/Algorithms-Systems-and-the-Iterations-of-History"
